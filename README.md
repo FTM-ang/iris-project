@@ -17,4 +17,4 @@ This notebook explores the famous Iris dataset using correlation analysis and Pr
 The first principal component captures over 90% of the variance, confirming redundancy between some features.
 
 ---
-Created by Taigra 🌿
+Created by Fatima Angawi🌿
